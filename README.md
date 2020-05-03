@@ -1,1 +1,1 @@
-# Face-Detection-App-on-AWS
+# Face-Detection-App-using-AWS
